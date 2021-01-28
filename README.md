@@ -1,7 +1,7 @@
 # Sieve Analysis
 
 
-Sieve analysis allows for civil engineers to assess the particle size distribution of any granular material of their choosing. Prior to class today, my first soil mechanics lab had this as the topic. Below is the necessary procedure, in my own words: 
+Sieve analysis allows for civil engineers to assess the particle size distribution of any granular material of their choosing. By assembling sieves in a stack, the user insures that all material particles will be "caught" by one of the available sieves. After conducting the test, the individual mass reading for each sieve will reveal the distribution of the sample particles. Below is the necessary procedure, in my own words: 
 
 # What you will need: 
 
@@ -33,5 +33,8 @@ Sieve analysis allows for civil engineers to assess the particle size distributi
 
 9. Depending on the condition of the sieves after testing, a paintbrush cleaning may be required for the larger sieves (above 150 micron openings) If the sieves contain lodged particles in them, an ultrasonic cleaning may also be required. 
 
+
+# Analysis
+Now that the empty and post-test sieve masses are available, the user is now able to identify the fineness of the sample. This is done by subtracting the post-test mass by the empty mass, which represents the mass of the material. The user can calculate the percentage of the sample that is smaller than a certain sieve size, and create a distribution with this data.  
 
 
